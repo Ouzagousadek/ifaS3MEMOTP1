@@ -1,3 +1,8 @@
 .red{
 	color : red;
 }
+
+.pagination li {
+  display:inline-block;
+  padding:5px;
+}
